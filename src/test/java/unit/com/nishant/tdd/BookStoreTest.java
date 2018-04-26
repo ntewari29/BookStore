@@ -37,4 +37,21 @@ public class BookStoreTest {
         List<Book> actual = bookStore.findByTitle("Lord of the Rings");
         assertThat(actual, is(asList(lord_of_the_rings)));
     }
+
+    @Test
+    public void findsAllBooksWithTitlesThatContainTheSearchText() {
+        Book lord_of_the_rings = new Book("Lord of the Rings");
+        Book the_hobbit = new Book("The Hobbit");
+        Book a_new_hope = new Book("A New Hope");
+
+        BookStore bookStore = new BookStore();
+        bookStore.addBook(lord_of_the_rings);
+        bookStore.addBook(the_hobbit);
+        bookStore.addBook(a_new_hope);
+
+        List<Book> actual = bookStore.findByTitle("the");
+        assertThat(
+                actual,
+                is(asList(lord_of_the_rings, the_hobbit)));
+    }
 }
