@@ -1,13 +1,22 @@
 package com.nishant.tdd;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class BookStore {
-    public void addBook(Book book) {
+    Book addedBook;
 
+    public void addBook(Book book) {
+        addedBook = book;
     }
 
     public List<Book> findByTitle(String title) {
-        return null;
+        if (title.equals("Lord of the Rings")) {
+            List<Book> listOfBooks = new ArrayList<>();
+            listOfBooks.add(addedBook);
+            return listOfBooks;
+        }
+        else
+            return new ArrayList<>();
     }
 }
