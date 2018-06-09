@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="4e25d2a5-aaa4-4d40-8896-042d72b9ec55" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nishant/tdd/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nishant/tdd/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nishant/tdd/BookStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nishant/tdd/BookStore.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/unit/com/nishant/tdd/BookStoreTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/unit/com/nishant/tdd/BookStoreTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,36 +23,32 @@
     </option>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
+    <splitter split-orientation="horizontal" split-proportion="0.4644478">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="Runner.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/Runner.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="425">
-                  <caret line="25" column="70" selection-start-line="25" selection-start-column="70" selection-end-line="25" selection-end-column="70" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/pom.xml">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="391">
-                  <caret line="23" selection-start-line="23" selection-end-line="23" />
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file leaf-file-name="BookStore.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/java/com/nishant/tdd/BookStore.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="221">
-                  <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+                <state relative-caret-position="151">
+                  <caret line="42" column="48" selection-start-line="42" selection-start-column="48" selection-end-line="42" selection-end-column="48" />
                   <folding>
                     <element signature="imports" expanded="true" />
-                    <element signature="e#163#164#0" expanded="true" />
-                    <element signature="e#195#196#0" expanded="true" />
+                    <element signature="e#187#188#0" expanded="true" />
+                    <element signature="e#224#225#0" expanded="true" />
+                    <element signature="e#348#349#0" expanded="true" />
+                    <element signature="e#404#405#0" expanded="true" />
+                    <element signature="e#689#690#0" expanded="true" />
+                    <element signature="e#743#744#0" expanded="true" />
+                    <element signature="e#1069#1070#0" expanded="true" />
+                    <element signature="e#1127#1128#0" expanded="true" />
+                    <element signature="e#2356#2357#0" expanded="true" />
+                    <element signature="e#2446#2447#0" expanded="true" />
+                    <element signature="e#2579#2580#0" expanded="true" />
+                    <element signature="e#2643#2644#0" expanded="true" />
+                    <element signature="e#3448#3449#0" expanded="true" />
+                    <element signature="e#3539#3540#0" expanded="true" />
+                    <element signature="e#3679#3680#0" expanded="true" />
+                    <element signature="e#3771#3772#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -67,13 +66,11 @@
           <file leaf-file-name="Book.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/com/nishant/tdd/Book.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret column="24" lean-forward="true" selection-start-column="24" selection-end-column="24" />
+                <state relative-caret-position="238">
+                  <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
                   <folding>
-                    <element signature="e#109#110#0" expanded="true" />
-                    <element signature="e#143#144#0" expanded="true" />
-                    <element signature="e#189#190#0" expanded="true" />
-                    <element signature="e#228#229#0" expanded="true" />
+                    <element signature="e#358#359#0" expanded="true" />
+                    <element signature="e#386#387#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -87,8 +84,8 @@
           <file leaf-file-name="BookStoreTest.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/test/java/unit/com/nishant/tdd/BookStoreTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="405">
-                  <caret line="37" selection-start-line="37" selection-end-line="37" />
+                <state relative-caret-position="203">
+                  <caret line="176" selection-start-line="176" selection-end-line="176" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -103,8 +100,8 @@
           <file leaf-file-name="BookStoreTest.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/test/java/unit/com/nishant/tdd/BookStoreTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="760">
-                  <caret line="54" column="55" selection-start-line="54" selection-start-column="55" selection-end-line="54" selection-end-column="55" />
+                <state relative-caret-position="448">
+                  <caret line="205" lean-forward="true" selection-start-line="205" selection-end-line="205" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -172,11 +169,6 @@
             <path>
               <item name="ProjectLearn" type="b2602c69:ProjectViewProjectNode" />
               <item name="ProjectLearn" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProjectLearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProjectLearn" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -238,6 +230,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="param hin&#9;ACTION&#9;ToggleInlineHintsAction" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="C:/Program Files/Git/cmd/git.exe" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -257,11 +251,6 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Runner" />
-      <module name="ProjectLearn" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -288,23 +277,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="unit.com.nishant.tdd in ProjectLearn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BookStoreTest.findsAllBooksPublishedByAGivenAuthor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProjectLearn" />
       <extension name="coverage">
         <pattern>
@@ -315,9 +288,94 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="unit.com.nishant.tdd" />
+      <option name="MAIN_CLASS_NAME" value="unit.com.nishant.tdd.BookStoreTest" />
+      <option name="METHOD_NAME" value="findsAllBooksPublishedByAGivenAuthor" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="BookStoreTest.findsAllBooksPublishedByAGivenAuthorAndWithinPublicationYear" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProjectLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="unit.com.nishant.tdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="unit.com.nishant.tdd" />
+      <option name="MAIN_CLASS_NAME" value="unit.com.nishant.tdd.BookStoreTest" />
+      <option name="METHOD_NAME" value="findsAllBooksPublishedByAGivenAuthorAndWithinPublicationYear" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="BookStoreTest.findsAllBooksPublishedInTheGivenYear" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProjectLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="unit.com.nishant.tdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="unit.com.nishant.tdd" />
+      <option name="MAIN_CLASS_NAME" value="unit.com.nishant.tdd.BookStoreTest" />
+      <option name="METHOD_NAME" value="findsAllBooksPublishedInTheGivenYear" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="BookStoreTest.findsAllBooksThatMatchTheGivenTitle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProjectLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="unit.com.nishant.tdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="unit.com.nishant.tdd" />
+      <option name="MAIN_CLASS_NAME" value="unit.com.nishant.tdd.BookStoreTest" />
+      <option name="METHOD_NAME" value="findsAllBooksThatMatchTheGivenTitle" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
       <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="package" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -350,15 +408,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Runner" />
       <item itemvalue="JUnit.BookStoreTest" />
-      <item itemvalue="JUnit.unit.com.nishant.tdd in ProjectLearn" />
+      <item itemvalue="JUnit.BookStoreTest.findsAllBooksThatMatchTheGivenTitle" />
+      <item itemvalue="JUnit.BookStoreTest.findsAllBooksPublishedInTheGivenYear" />
+      <item itemvalue="JUnit.BookStoreTest.findsAllBooksPublishedByAGivenAuthor" />
+      <item itemvalue="JUnit.BookStoreTest.findsAllBooksPublishedByAGivenAuthorAndWithinPublicationYear" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.BookStoreTest" />
-        <item itemvalue="JUnit.unit.com.nishant.tdd in ProjectLearn" />
-        <item itemvalue="Application.Runner" />
+        <item itemvalue="JUnit.BookStoreTest.findsAllBooksPublishedByAGivenAuthorAndWithinPublicationYear" />
+        <item itemvalue="JUnit.BookStoreTest.findsAllBooksPublishedByAGivenAuthor" />
+        <item itemvalue="JUnit.BookStoreTest.findsAllBooksPublishedInTheGivenYear" />
+        <item itemvalue="JUnit.BookStoreTest.findsAllBooksThatMatchTheGivenTitle" />
       </list>
     </recent_temporary>
   </component>
@@ -394,52 +456,62 @@
       <option name="project" value="LOCAL" />
       <updated>1524740775812</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="another failing test">
+      <created>1524741053920</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1524741053920</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BootStoreTest - 2018.04.26 at 16h 07m 18s.xml">
-      <configuration name="BootStoreTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BookStoreTest - 2018.04.26 at 16h 08m 19s.xml">
+    <history-entry file="BookStoreTest - 2018.05.10 at 17h 01m 22s.xml">
       <configuration name="BookStoreTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="unit_com_nishant_tdd_in_ProjectLearn - 2018.04.26 at 16h 14m 46s.xml">
-      <configuration name="unit.com.nishant.tdd in ProjectLearn" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="unit_com_nishant_tdd_in_ProjectLearn - 2018.04.26 at 16h 15m 54s.xml">
-      <configuration name="unit.com.nishant.tdd in ProjectLearn" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BookStoreTest - 2018.04.26 at 16h 19m 54s.xml">
+    <history-entry file="BookStoreTest - 2018.06.09 at 15h 12m 28s.xml">
       <configuration name="BookStoreTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BookStoreTest - 2018.04.26 at 16h 21m 23s.xml">
+    <history-entry file="BookStoreTest_findsAllBooksPublishedByAGivenAuthor - 2018.06.09 at 15h 26m 37s.xml">
+      <configuration name="BookStoreTest.findsAllBooksPublishedByAGivenAuthor" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BookStoreTest_findsAllBooksPublishedByAGivenAuthor - 2018.06.09 at 15h 27m 38s.xml">
+      <configuration name="BookStoreTest.findsAllBooksPublishedByAGivenAuthor" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BookStoreTest_findsAllBooksPublishedByAGivenAuthor - 2018.06.09 at 15h 29m 40s.xml">
+      <configuration name="BookStoreTest.findsAllBooksPublishedByAGivenAuthor" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BookStoreTest - 2018.06.09 at 15h 29m 52s.xml">
       <configuration name="BookStoreTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BookStoreTest - 2018.04.26 at 16h 28m 09s.xml">
+    <history-entry file="BookStoreTest - 2018.06.09 at 15h 37m 08s.xml">
       <configuration name="BookStoreTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BookStoreTest - 2018.04.26 at 16h 33m 51s.xml">
+    <history-entry file="BookStoreTest - 2018.06.09 at 15h 38m 13s.xml">
       <configuration name="BookStoreTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BookStoreTest - 2018.04.26 at 16h 35m 46s.xml">
+    <history-entry file="BookStoreTest - 2018.06.09 at 15h 40m 10s.xml">
+      <configuration name="BookStoreTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BookStoreTest - 2018.06.09 at 15h 40m 29s.xml">
       <configuration name="BookStoreTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32984293" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32972136" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="6" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32838285" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3960396" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3003096" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="7" />
       <window_info id="Designer" order="3" />
@@ -450,7 +522,7 @@
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39933994" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -463,7 +535,7 @@
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5759076" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3003096" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.25113463" />
@@ -474,7 +546,7 @@
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39933994" />
       <window_info id="Learn" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
@@ -487,6 +559,16 @@
       <window_info anchor="right" id="Maven Projects" order="6" />
       <window_info id="Favorites" order="6" side_tool="true" />
     </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -523,7 +605,32 @@
     <MESSAGE value="add .gitignore" />
     <MESSAGE value="first failing bookstore test" />
     <MESSAGE value="First passed test" />
-    <option name="LAST_COMMIT_MESSAGE" value="First passed test" />
+    <MESSAGE value="another failing test" />
+    <option name="LAST_COMMIT_MESSAGE" value="another failing test" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>book.title.toLowerCase().contains(title)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>book.title.toLowerCase().contains(&quot;the&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>book.title.contains(&quot;the&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/Runner.java">
@@ -540,10 +647,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Runner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="70" selection-start-line="25" selection-start-column="70" selection-end-line="25" selection-end-column="70" />
+        <state relative-caret-position="308">
+          <caret line="25" column="62" lean-forward="true" selection-start-line="25" selection-start-column="62" selection-end-line="25" selection-end-column="62" />
         </state>
       </provider>
     </entry>
@@ -554,9 +664,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -566,33 +673,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/nishant/tdd/Book.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="24" lean-forward="true" selection-start-column="24" selection-end-column="24" />
+        <state relative-caret-position="238">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
           <folding>
-            <element signature="e#109#110#0" expanded="true" />
-            <element signature="e#143#144#0" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/nishant/tdd/BookStore.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        <state relative-caret-position="151">
+          <caret line="42" column="48" selection-start-line="42" selection-start-column="48" selection-end-line="42" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#187#188#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#404#405#0" expanded="true" />
+            <element signature="e#689#690#0" expanded="true" />
+            <element signature="e#743#744#0" expanded="true" />
+            <element signature="e#1069#1070#0" expanded="true" />
+            <element signature="e#1127#1128#0" expanded="true" />
+            <element signature="e#2356#2357#0" expanded="true" />
+            <element signature="e#2446#2447#0" expanded="true" />
+            <element signature="e#2579#2580#0" expanded="true" />
+            <element signature="e#2643#2644#0" expanded="true" />
+            <element signature="e#3448#3449#0" expanded="true" />
+            <element signature="e#3539#3540#0" expanded="true" />
+            <element signature="e#3679#3680#0" expanded="true" />
+            <element signature="e#3771#3772#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/unit/com/nishant/tdd/BookStoreTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="54" column="55" selection-start-line="54" selection-start-column="55" selection-end-line="54" selection-end-column="55" />
+        <state relative-caret-position="448">
+          <caret line="205" lean-forward="true" selection-start-line="205" selection-end-line="205" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

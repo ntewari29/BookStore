@@ -1,10 +1,14 @@
 package com.nishant.tdd;
 
 public class Book {
-    private final String title;
+    public final String title;
+    public final int publicationYear;
+    public final String author;
 
-    public Book(String title) {
+    public Book(String title, int publicationYear, String author) {
         this.title = title;
+        this.publicationYear = publicationYear;
+        this.author = author;
     }
 
     public String toString() {
